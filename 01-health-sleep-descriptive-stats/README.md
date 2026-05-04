@@ -24,8 +24,6 @@ This project explores a health and lifestyle dataset to understand patterns in s
 
 ## Tools & Technologies
 
-- **Python 3.x**
-- **Libraries:** pandas, numpy, matplotlib, seaborn
 - **Analysis Software:** Google Sheets / Excel for initial exploration
 - **Presentation:** Google Slides / PowerPoint
 
