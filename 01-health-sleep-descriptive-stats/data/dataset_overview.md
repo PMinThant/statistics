@@ -22,4 +22,22 @@ The Sleep Health and Lifestyle Dataset comprises a wide range of variables relat
 
 **Quality of Sleep** (scale: 1-10): A subjective rating of the quality of sleep, ranging from 1 to 10.
 
-**Physical Activity Level** 
+**Physical Activity Level** (minutes/day): The number of minutes the person engages in physical activity daily.
+
+**Stress Level** (scale: 1-10): A subjective rating of the stress level experienced by the person, ranging from 1 to 10.
+
+**BMI Category**: The BMI category of the person (e.g., Underweight, Normal, Overweight).
+
+**Blood Pressure** (systolic/diastolic): The blood pressure measurement of the person, indicated as systolic pressure over diastolic pressure.
+
+**Heart Rate** (bpm): The resting heart rate of the person in beats per minute.
+
+**Daily Steps**: The number of steps the person takes per day.
+
+**Sleep Disorder**: The presence or absence of a sleep disorder in the person (`None`, `Insomnia`, `Sleep Apnea`).
+
+### Details about Sleep Disorder Column
+
+- **None**: The individual does not exhibit any specific sleep disorder.
+- **Insomnia**: The individual experiences difficulty falling asleep or staying asleep, leading to inadequate or poor-quality sleep.
+- **Sleep Apnea**: The individual suffers from pauses in breathing during sleep, resulting in disrupted sleep patterns and potential health risks.
