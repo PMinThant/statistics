@@ -32,3 +32,5 @@ This project explores a health and lifestyle dataset to understand patterns in s
 ### Descriptive Statistics Calculated:
 1. **Data Type Identification** - Classified variables as categorical, discrete, or continuous
 2. **Measures of Center** - Mean, median, mode for numerical 
+
+![Healthy Sleep](report/infographic.jpg)
